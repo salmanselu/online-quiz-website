@@ -1,0 +1,19 @@
+{
+  "name": "online-quiz-website",
+  "version": "1.0.0",
+  "description": "Online quiz website",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmanselu/online-quiz-website.git"
+  },
+  "author": "Salmanselu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmanselu/online-quiz-website/issues"
+  },
+  "homepage": "https://github.com/salmanselu/online-quiz-website#readme"
+}
